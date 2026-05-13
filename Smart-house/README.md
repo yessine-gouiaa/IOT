@@ -11,6 +11,7 @@ the smart house system  is composed of :
 -light detector system that will turn on and trun off lights automatically
 -gaz monitoring system that will launch an alaram and ope windows whe ngaz is detected
 -garage door and windows control system using servo motors
+-fire detetcion system that control buzzer and sends an emergency email
 -control panel to isolate all systems from their output to test the output alone to diagnose if any observed issue is from the system itself (sensor) or system output(buzzer,motor...)
 -a 4 pages website system to control all the system via PC or phone with login page for your security
 - +1500 lines of C,HTML css and JS code to create this perfect mechanism
